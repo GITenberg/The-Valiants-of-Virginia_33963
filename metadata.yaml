@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '34390'
     url: http://www.gutenberg.org/2009/agents/34390
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33963#The-Valiants-of-Virginia
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2010-09-29'
 gutenberg_type: Text
